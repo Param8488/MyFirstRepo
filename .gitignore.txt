@@ -1,3 +1,0 @@
-# === This is a sample of .gitignore file ===
-# ignore temp files
-.*tmp
